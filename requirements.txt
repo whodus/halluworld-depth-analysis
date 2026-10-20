@@ -1,0 +1,2 @@
+halluworld @ git+https://github.com/DegenAI-Labs/HalluWorld.git@97067122c82f135b6f7526729a849c5ca031e2da
+matplotlib
