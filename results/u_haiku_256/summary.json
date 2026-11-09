@@ -1,0 +1,740 @@
+{
+  "accuracy": 0.8367346938775511,
+  "correct": 41,
+  "excluded": 55,
+  "groups": {
+    "terminal|3d-model-format-legacy||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|acl-permissions-inheritance||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|adaptive-rejection-sampler||uncertainty": {
+      "accuracy": 0.0,
+      "excluded": 0,
+      "hallucination_rate": 1.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|add-benchmark-lm-eval-harness||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|ancient-puzzle||uncertainty": {
+      "accuracy": 0.0,
+      "excluded": 0,
+      "hallucination_rate": 1.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|attention-mil||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|bank-trans-filter||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|bn-fit-modify||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|break-filter-js-from-html||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|build-linux-kernel-qemu||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|build-pov-ray||uncertainty": {
+      "accuracy": 0.0,
+      "excluded": 0,
+      "hallucination_rate": 1.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|build-tcc-qemu||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|caffe-cifar-10||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|cartpole-rl-training||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|causal-inference-r||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|chem-rf||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|circuit-fibsqrt||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|code-from-image||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|compile-compcert||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|constraints-scheduling||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|count-call-stack||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|count-dataset-tokens||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|cpp-compatibility||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|cprofiling-python||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|crack-7z-hash||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|cross-entropy-method||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|custom-memory-heap-crash||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|debug-long-program||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|dna-assembly||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|dna-insert||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|download-youtube||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|enemy-grid-escape||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|extract-safely||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|feal-differential-cryptanalysis||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|feal-linear-cryptanalysis||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|filter-js-from-html||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|financial-document-processor||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|fix-code-vulnerability||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|fix-permissions||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|fmri-encoding-r||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|get-bitcoin-nodes||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|hdfs-deployment||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|hf-train-lora-adapter||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|huarong-dao-solver||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|ilp-solver||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|incompatible-python-fasttext||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|inspect-dtype||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|install-windows-3.11||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|install-windows-xp||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|interactive-maze-game||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|jupyter-notebook-server||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|lean4-proof||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|llm-inference-batching-scheduler||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|llm-spec-decoding||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|magsac-install||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|mahjong-winninghand||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|make-doom-for-mips||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|mcmc-sampling-stan||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|mteb-leaderboard||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|mteb-retrieve||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|multi-source-data-merger||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|neuron-to-jaxley-conversion||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|openssl-selfsigned-cert||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|optimal-transport||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|pandas-etl||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|parallelize-graph||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|path-tracing-reverse||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|portfolio-optimization||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|predicate-pushdown-bench||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|protein-assembly||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|query-optimize||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|regex-chess||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|reshard-c4-data||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|reverse-engineering||uncertainty": {
+      "accuracy": 0.0,
+      "excluded": 0,
+      "hallucination_rate": 1.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|rstan-to-pystan||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|run-pdp11-code||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|sam-cell-seg||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|solana-data||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|solve-maze-challenge||uncertainty": {
+      "accuracy": 0.0,
+      "excluded": 0,
+      "hallucination_rate": 1.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|solve-sudoku||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|speech-to-text||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|spinning-up-rl||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|spring-messaging-vul||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|sql-injection-attack||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|sqlite-with-gcov||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|stable-parallel-kmeans||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|string-file-search||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|sudo-llvm-ir||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|swe-bench-astropy-2||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|swe-bench-fsspec||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|torch-pipeline-parallelism||uncertainty": {
+      "accuracy": 0.0,
+      "excluded": 0,
+      "hallucination_rate": 1.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|torch-tensor-parallelism||uncertainty": {
+      "accuracy": 0.0,
+      "excluded": 0,
+      "hallucination_rate": 1.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|train-bpe-tokenizer||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|train-fasttext||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|transcribe-audio||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|triton-interpret||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|video-processing||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|vimscript-vim-quine||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|vul-flask||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|vul-flink||uncertainty": {
+      "accuracy": 0.0,
+      "excluded": 0,
+      "hallucination_rate": 1.0,
+      "n": 1,
+      "scored": 1
+    },
+    "terminal|vulnerable-secret||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|winning-avg-corewars||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|word2vec-from-scratch||uncertainty": {
+      "accuracy": null,
+      "excluded": 1,
+      "hallucination_rate": null,
+      "n": 1,
+      "scored": 0
+    },
+    "terminal|write-compressor||uncertainty": {
+      "accuracy": 1.0,
+      "excluded": 0,
+      "hallucination_rate": 0.0,
+      "n": 1,
+      "scored": 1
+    }
+  },
+  "model_requested": "claude-haiku-5-5",
+  "provider": "anthropic",
+  "records": 104,
+  "scored": 49,
+  "selected": 104
+}

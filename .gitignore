@@ -1,6 +1,14 @@
+# secrets: never commit real keys (.env.example is a blank template and is kept)
 .env
+.env.*
+!.env.example
+
 .venv/
 __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
+
+# personal drafts (not for the public repo)
+ISSUE_DRAFT.md
+RESULTS_SUMMARY.md
